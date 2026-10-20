@@ -32,3 +32,4 @@
 
 ### Структура
 * `src/main/java/org/example/Main.java` — исходный код программы.
+ КОДА
